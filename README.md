@@ -5,6 +5,7 @@ This repository contains a collection of beginner-friendly Python programs writt
 - `basic_calculator.py` – Performs arithmetic operations with user input.
 
 #  Tools Used:
+- Python 3.12
 - PyCharm (IDE)
 
 # ✅ Status:
