@@ -3,6 +3,7 @@ This repository contains a collection of beginner-friendly Python programs writt
 
 # Programs Included:
 - `basic_calculator.py` – Performs arithmetic operations with user input.
+- `String_length_calculation_methods.py` – Caclculate dtring lengths by different methods 
 
 #  Tools Used:
 - Python 3.12
