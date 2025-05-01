@@ -1,3 +1,5 @@
+# Code snippet to calculate the value of any input character
+
 char = input("Enter a character:")  # Take character as an input
 ASCII_Value = ord(char)  # By using ord() method we calculate the ASCII(unicode) value of character
 print(ASCII_Value)  # print the ASCII(unicode value) of alphabet or character
