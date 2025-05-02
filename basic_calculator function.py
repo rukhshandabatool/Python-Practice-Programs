@@ -14,9 +14,9 @@ def calculation(num1, num2, operator):
 
 
 number1, number2 = int(input("Enter 1st number: ")), int(input("Enter 2nd number: "))
-# input prompts for getting numbers
+# input prompts for getting numbers by using input() and int() functions
 input_operator = input("Enter operator according to your choice: ")  # getting required operator
 result = calculation(number1, number2, input_operator)  # calculating result by passing the arguments(values) through
 # variables number1 & number2
 print("The calculation result is: " + str(result))
-# finally printing the result by using print() and str() functions
+# Finally printing the result by using print() and str() functions
