@@ -23,3 +23,9 @@ for i in range(1, rows + 1):  # using for loop to iterate over the element
         # * and so on, to avoid this we use end="" function to just add space so, the next character will be printed on the same line.
     print()  # we are using this to add new line character otherwise bcz of "end="" " all the "*" character will be moved on the same 
              # line, like that: * * * * * *
+
+
+num_rows = int(input("Enter a number of rows:"))  # Getting number of rows from user by using input() and int() function
+# int() function will declare that the output is an integer not a string.
+
+
