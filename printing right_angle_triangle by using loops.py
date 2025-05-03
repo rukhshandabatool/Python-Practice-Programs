@@ -27,5 +27,5 @@ for i in range(1, rows + 1):  # using for loop to iterate over the element
 
 num_rows = int(input("Enter a number of rows:"))  # Getting number of rows from user by using input() and int() function
 # int() function will declare that the output is an integer not a string.
-
+print_right_angle_triangle(num_rows)
 
