@@ -15,3 +15,9 @@ for i in range(1, rows + 1):  # using for loop to iterate over the element
     # printed.
     # "i = 2" and "j = 2" two "*" characters will be printed
     # "i = 3" and "j = 3" three "*" characters will be printed and so on
+        print("* ", end="")  # here using print function to print the value
+        # using "end=""" is used to enter the space between characters otherwise the second character will be
+        # moved on the 2nd line like that by default:
+        # *
+        # *
+        # * and so on, to avoid this we use end="" function to just add space so, the next character will be printed on the same line.
