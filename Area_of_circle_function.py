@@ -1,5 +1,3 @@
-# Different ways to calculate the circumference of a circle by using functions
-
 # Method 1:
 def circle_area(radius):  # defining a function to calculate the area of circle
     pi = 3.14  # initialize predefined value of pi
@@ -17,9 +15,6 @@ Calculated_Area = circle_area(r)   # calling function with input variable as arg
 print("{} is the calculated area of circle.".format(Calculated_Area))  # Printing area of circle by using format() function
 # uses "string formatting" in Python to print a formatted string. It replaces the placeholder {}, within the string, with the value of the
 # variable Calculated_Area
-
-
-# Method 2:
 
 
 
