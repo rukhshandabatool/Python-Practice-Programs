@@ -13,7 +13,17 @@ r = float(input("Enter the radius of circle:"))  # getting input from user with 
 # also be a decimal. To ensure accurate results, variables used in the calculation (like radius, pi, and the resulting circumference) should
 # be able to hold decimal values, which float (or double) provides
 
-Calculated_Area = circle_area(r)   # calling function with input variable as argument
+Calculated_Area = circle_area(r)   # calling function with input variable as argument for passing the value to function
+print("{} is the calculated area of circle.".format(Calculated_Area))  # Printing area of circle by using format() function
+# uses "string formatting" in Python to print a formatted string. It replaces the placeholder {}, within the string, with the value of the
+# variable Calculated_Area
+
+
+# Method 2:
+
+
+
+
     
 
 
