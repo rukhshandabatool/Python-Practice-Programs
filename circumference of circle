@@ -5,5 +5,5 @@ def circle_circumference(radius):  # defining a function to calculate the circum
 
 r = float(input("Enter radius of circle:"))
 Calculated_circumference = circle_circumference(r)
-print("{} is the calculated circumfernce of circle.". format(Calculated_circumference))  # printing the circumference of circle
+print("{} is the calculated circumference of circle.". format(Calculated_circumference))  # printing the circumference of circle
    
