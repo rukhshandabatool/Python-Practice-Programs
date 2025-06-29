@@ -13,6 +13,8 @@ print("The average of marks is:", str(Average))
 print("")
 print("{} is the average of obtained marks.".format(Average))
 
-# Method 2: Calculating average by declaring a function
+# Method 2: By using function
+def average_calculator(ome1, ome2, ome3)
+    
 
-def fun(om1, t)
+
