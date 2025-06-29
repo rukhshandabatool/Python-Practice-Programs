@@ -12,9 +12,3 @@ Average = total_obtain_marks / No_of_subjects
 print("The average of marks is:", str(Average))
 print("")
 print("{} is the average of obtained marks.".format(Average))
-
-# Method 2: By using function
-def average_calculator(ome1, ome2, ome3)
-    
-
-
